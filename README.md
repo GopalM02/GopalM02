@@ -21,26 +21,9 @@
 
 ---
 
-## 🏆 Featured Projects
+## 🟢 GitHub Status
 
-### [Project Name](https://github.com/GopalM02/project-name)
-Brief description of what this project does and why it's interesting.
-- **Tech Stack:** C++, DSA
-- **Key Features:** Feature 1, Feature 2, Feature 3
-
-### [Full-Stack Project](https://github.com/GopalM02/fullstack-project)
-Description of your full-stack application and its impact.
-- **Tech Stack:** JavaScript, React, Node.js, Python
-- **Key Features:** Feature 1, Feature 2
-
----
-
-## 📫 Connect With Me
-
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+![GitHub Status](https://img.shields.io/badge/GitHub-Active-brightgreen?style=flat-square&logo=github)
 
 ---
 
