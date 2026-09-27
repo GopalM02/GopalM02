@@ -9,6 +9,11 @@
 ### Frameworks & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+## 💻 LeetCode Progress
+
+<a href="https://leetcode.com/GopalM02" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-brightgreen?style=flat-square&logo=leetcode" alt="LeetCode">
+</a>
 
 ## 🟢 GitHub Status
 
